@@ -4,3 +4,7 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy/Repository
 - Facade
+
+
+Swagger UI
+![](https://im3.ezgif.com/tmp/ezgif-3-0712296cc0.gif)
