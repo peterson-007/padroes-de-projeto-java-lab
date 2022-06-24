@@ -15,6 +15,7 @@
 	<name>lab-padroes-projeto-spring</name>
 	<description>Exemplos de Padrões de Projeto em Spring</description>
 	
+	<!-- Swagger UI -->
 	<properties>
 		<java.version>11</java.version>
 		<openapi.version>1.5.10</openapi.version>
