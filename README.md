@@ -6,6 +6,6 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Facade
 
 
-Swagger UI
+Exemplo utilizando Swagger UI e o consumo da API "ViaCEP"
 
 ![](https://im3.ezgif.com/tmp/ezgif-3-0712296cc0.gif)
