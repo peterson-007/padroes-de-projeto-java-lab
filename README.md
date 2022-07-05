@@ -8,4 +8,4 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 
 Exemplo utilizando Swagger UI e o consumo da API "ViaCEP"
 
-![](https://github.com/peterson-007/padroes-de-projeto-java-lab/blob/master/labsjavapadroes.gif)
+![](https://github.com/peterson-007/padroes-de-projeto-java-lab/blob/master/labsjavapadroes%20(1).gif)
